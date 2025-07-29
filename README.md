@@ -108,4 +108,41 @@ Walmart’s sales performance varies across different stores and time periods, a
 **Observations**
 - The average weekly sales show a slight downward trend over the years, indicating a gradual decrease in sales from 2010 to 2012.
 
+<img width="984" height="584" alt="image" src="https://github.com/user-attachments/assets/4ffb2d72-25f1-4f93-9c87-871ffaff8709" />
+
+**Observations**
+- The average unemployment rate appears relatively stable over the years, with only minor fluctuations from 2010 to 2012
+
+## Multi-variate Analysis
+
+### Correlation Heatmap
+
+<img width="931" height="784" alt="image" src="https://github.com/user-attachments/assets/5667ae13-491c-4113-9e3f-9f0e8e0513ed" />
+
+**Observations**
+- The correlation heatmap shows that most numeric features have weak correlations with each other. There is no strong linear relationship between weekly sales and other variables, suggesting that sales are influenced by multiple factors rather than a single dominant one.
+
+# Conclusions
+
+- Walmart's weekly sales exhibit a slight downward trend from 2010 to 2012, with no single external factor showing a strong linear relationship with sales.
+- Holidays are associated with higher sales, but they are relatively infrequent compared to normal weeks.
+- Fuel prices have gradually increased, while unemployment rates have remained relatively stable over the observed period.
+- Seasonal trends are present, with certain months experiencing higher average sales, indicating the importance of seasonality in planning and forecasting.
+- Most numeric features show weak correlations with each other, suggesting that Walmart's sales are influenced by a combination of factors rather than any single variable.
+- Further analysis and modeling should consider the interplay of multiple variables and the impact of seasonality and holidays for more accurate forecasting and business insights.
+
+# Recommendations
+
+- Incorporate seasonality and holiday effects into sales forecasting models to improve accuracy and support inventory planning.
+- Monitor and analyze additional external factors (e.g., promotions, local events, competitor activity) that may influence sales but are not captured in the current dataset.
+- Develop targeted marketing strategies for months with historically higher sales to maximize revenue opportunities.
+- Continue tracking fuel prices and unemployment rates, but prioritize multi-factor models over single-variable analysis for business decisions.
+- Regularly update and validate models with new data to adapt to changing trends and external influences.
+- Explore store-level and department-level analyses for more granular insights and tailored operational strategies.
+
+# Forecasting Future sales
+
+<img width="1181" height="584" alt="image" src="https://github.com/user-attachments/assets/53e8415c-c754-4a12-83d4-aec521478695" />
+
+
 
