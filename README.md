@@ -162,3 +162,9 @@ Ensure you have **Python 3.7+**
 4. Visualize insights
 
 ---
+
+## **👤 Author**
+
+**Kenneth Nyangweso**
+
+**Data Scientist | Electrical & Telecommunications Engineer**
